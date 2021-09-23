@@ -2,11 +2,6 @@
 
 > Exercise for your brain! Try a Sudoku puzzle! Built using Unity and C#
 
-## Demo
-[WebGL version](https://www.grimechristopher.com/sudoku-demo/)
-
-I hope you enjoy playing a quick game of Sudoku!
-
 ## Description
 
 Sudoku is a famous logic-based puzzle. The objective is to fill a 9x9 board with each row, column, and 3x3 grid containing the numbers 1 - 9. Each row, column, and 3x3 grid must only contain one of each number. The fewer clues the initial puzzle has the more challenging the Sudoku is to solve.
