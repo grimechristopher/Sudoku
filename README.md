@@ -38,6 +38,7 @@ Difficulty Settings
 
 ---
 
-[grimechristopher.com](https://grimechristopher.com)  
-[chris@grimechristopher.com](mailto:chris@grimechristopher.com)  
+[chrisgrime.com](https://chrisgrime.com)  
+[chris@chrisgrime.com](mailto:chris@chrisgrime.com)  
 [linkedin/in/grimechristopher](https://linkedin/in/grimechristopher)  
+
